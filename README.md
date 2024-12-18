@@ -12,7 +12,7 @@ dan kalian bisa mencari offsets tersebut di https://github.com/a2x/cs2-dumper.gi
 
 
 
-[IDN]
+[ENG]
 
 I created this project solely for education about game hacking, it is recommended not to use it for cheating, because it can result in being banned.
 and I am not responsible if there are irresponsible parties who misuse this project.
